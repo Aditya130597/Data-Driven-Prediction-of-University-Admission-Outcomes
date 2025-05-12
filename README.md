@@ -42,5 +42,5 @@ Jamboree recently launched a feature where students/learners can come to their w
 # Requirements
 ● Python 3.x
 
-● Libraries: pandas, numpy, matplotlib, seaborn, category_encoders, skicit-learn, statsmodels
+● Libraries: pandas, numpy, matplotlib, seaborn, category_encoders, scikit-learn, statsmodels
 
