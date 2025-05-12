@@ -39,8 +39,8 @@ Jamboree recently launched a feature where students/learners can come to their w
 
 ● Training and evaluating a Linear Regression Model
 
-# Dependencies
+# Requirements
 ● Python 3.x
 
-● Libraries: pandas, numpy, matplotlib, seaborn, sklearn, statsmodels
+● Libraries: pandas, numpy, matplotlib, seaborn, category_encoders, skicit-learn, statsmodels
 
